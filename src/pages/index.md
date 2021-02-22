@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Starter
-    subtitle: Transport and distribution management suite
+    subtitle: Info
     actions:
       - label: Learn More
         url: /features
