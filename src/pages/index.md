@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: PI TMS
-    subtitle: Transport and distribution management
+    subtitle: Transport and distribution management suite
     actions:
       - label: Learn More
         url: /features
