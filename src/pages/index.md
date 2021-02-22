@@ -25,7 +25,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Warehouse and distribution centre man
+      - title: Warehouse management
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
